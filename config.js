@@ -8,7 +8,7 @@ const config = {
 		"logo": "https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/favicon.png",
 		"logoLink": "https://learn.hasura.io",
 		"title": "ScaleUp",
-		"githubUrl": "https://github.com/hasura/gatsby-gitbook-boilerplate",
+		"githubUrl": "",
 		"helpUrl": "",
 		"tweetText": "",
 		"links": [
